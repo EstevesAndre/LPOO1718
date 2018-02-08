@@ -1,2 +1,8 @@
+# FEUP - MIEIC
+2º Year -  2º Semester
+
 # LPOO1718
-LPOO 17/18 FEUP MIEIC 2ºSemester
+LPOO - Object Oriented Programming Laboratory 
+
+The programming language used: Java
+
