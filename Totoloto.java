@@ -12,6 +12,7 @@ public class Totoloto {
 		
 		int numBets = 0;
 		
+		
 		while(s.hasNext()) {
 			if(s.hasNextInt()) {
 				numBets = s.nextInt();
